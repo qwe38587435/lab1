@@ -1,0 +1,21 @@
+Script started on 2019年03月 4日 下午 09:36:30
+]0;~
+[32muser@DESKTOP-I3L9C34 [33m~[0m
+$ whoami; pe[Kwd
+user
+/home/user
+]0;~
+[32muser@DESKTOP-I3L9C34 [33m~[0m
+$ git config -l
+[?1h=user.email=qwe38587435@gmail.com[m
+user.name=qwe38587435[m
+[K[?1l>]0;~
+[32muser@DESKTOP-I3L9C34 [33m~[0m
+$ gitclo[K[K[K clone https://github.com/qwe38587435/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;~
+[32muser@DESKTOP-I3L9C34 [33m~[0m
+$ exit
+
+Script done on 2019年03月 4日 下午 09:38:57
